@@ -5,6 +5,6 @@
 </p>
 
 
-## Fullstack dev
+## Dev
 
 Python (Flask) ・ JavaScript ・ Lua (LÖVE)
